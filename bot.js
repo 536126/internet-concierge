@@ -182,6 +182,7 @@ bot.on("message", (message) => {
         );
       } else {
         return;
+        console.log('bot')
       }
     }
   );
